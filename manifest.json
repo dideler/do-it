@@ -3,7 +3,7 @@
   "short_name": "__MSG_appName__",
   "description": "__MSG_appDescription__",
   "default_locale": "en",
-  "version": "0.2",
+  "version": "0.3",
   "manifest_version": 2,
   "icons": {
     "16": "icons/icon-16.png",
@@ -34,7 +34,7 @@
         "https://*/*"
       ],
       "js": [
-        "bower_components/jquery/dist/jquery.min.js"
+        "bower_components/jquery/jquery.min.js"
       ],
       "css": [
         "styles/main.css"

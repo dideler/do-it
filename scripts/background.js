@@ -9,7 +9,7 @@ chrome.browserAction.onClicked.addListener(function() {
     }
     else {
       chrome.tabs.executeScript({
-        file: 'bower_components/jquery/dist/jquery.min.js'
+        file: 'bower_components/jquery/jquery.min.js'
       }, function() {
         chrome.tabs.executeScript({
           file: 'scripts/doit.js'
