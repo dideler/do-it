@@ -1,3 +1,5 @@
+**Update (June 2016):** The [do-it extension on the Chrome store](https://chrome.google.com/webstore/detail/do-it/goijbmcncgcdpdljjnoggmdaikodcclk) has been transferred to another owner. Thanks all!
+
 ![JUST DO IT](https://cloud.githubusercontent.com/assets/497458/11383841/dc024be0-9302-11e5-93d9-8e2a74999201.jpg)
 
 A Chrome extension to have Shia as your motivational coach.
