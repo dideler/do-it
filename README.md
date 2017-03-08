@@ -1,4 +1,6 @@
-**Update (June 2016):** The [do-it extension on the Chrome store](https://chrome.google.com/webstore/detail/do-it/goijbmcncgcdpdljjnoggmdaikodcclk) has been transferred to another owner. Thanks all!
+**Update March 2017:** [It's back on the Chrome Web Store!](https://chrome.google.com/webstore/detail/do-it/cnhehlcgdklpoaleccenbnkfimbhdojf) The previous publisher violated the terms of service and got the extension pulled, tsk tsk. So there it is again, the good ol' original version.
+
+**Update June 2016:** The [published extension on the Chrome Web Store](https://chrome.google.com/webstore/detail/do-it/goijbmcncgcdpdljjnoggmdaikodcclk) has been transferred to a new owner.
 
 ![JUST DO IT](https://cloud.githubusercontent.com/assets/497458/11383841/dc024be0-9302-11e5-93d9-8e2a74999201.jpg)
 
@@ -11,28 +13,28 @@ Until you click his face again.
 
 ---
 
-> Just do it
+> **_Just do it_**
 
-> Don't let your dreams be dreams  
+> _Don't let your dreams be dreams  
 Yesterday you said tomorrow  
 So just do it  
 Make your dreams come true  
-Just do it
+Just do it_
 
-> Some people dream of success  
+> _Some people dream of success  
 While you're gonna wake up and work hard at it  
-Nothing is impossible
+Nothing is impossible_
 
-> You should get to the point  
+> _You should get to the point  
 Where anyone else would quit  
 And you're not going to stop there  
-No, what are you waiting for?
+No, what are you waiting for?_
 
-> Do it  
+> _Do it  
 Just do it  
 Yes you can  
 Just do it  
 If you're tired of starting over  
-Stop giving up
+Stop giving up_
 
 ---
